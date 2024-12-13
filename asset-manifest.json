@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Color-square-app/static/css/main.2451e6ae.css",
+    "main.js": "/Color-square-app/static/js/main.f7b7d445.js",
+    "index.html": "/Color-square-app/index.html",
+    "main.2451e6ae.css.map": "/Color-square-app/static/css/main.2451e6ae.css.map",
+    "main.f7b7d445.js.map": "/Color-square-app/static/js/main.f7b7d445.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2451e6ae.css",
+    "static/js/main.f7b7d445.js"
+  ]
+}
